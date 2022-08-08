@@ -59,6 +59,10 @@ body {
   justify-content: center;
 }
 
+.hide {
+  display: none;
+}
+
 #answerA {
   display: block;
   width: 100%;
